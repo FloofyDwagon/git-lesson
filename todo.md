@@ -1,5 +1,6 @@
 # My To Do List
 ## My Shopping List
-+ [ ] Eggs
-+ [ ] Bread
++ [x] Eggs
++ [x] Bread
 + [ ] Milk
++ [ ] Cheese
