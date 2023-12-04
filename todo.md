@@ -2,5 +2,5 @@
 ## My Shopping List
 + [x] Eggs
 + [x] Bread
-+ [ ] Milk
-+ [ ] Cheese
++ [x] Milk
++ [x] Cheese
